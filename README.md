@@ -59,5 +59,5 @@ The final step provides a summary of the exploratory data analysis, problem stat
 
 Feel free to explore the provided Jupyter Notebook for a detailed understanding of the project and its implementation.
 
-You can also refer to the [Jupyter Notebook]([path/to/your/notebook.ipynb](https://colab.research.google.com/drive/1U-zkJuxpXx_7uPVP6HjvAd20UrRl9Tpr#scrollTo=Pah9xtzkl2Mr)https://colab.research.google.com/drive/1U-zkJuxpXx_7uPVP6HjvAd20UrRl9Tpr#scrollTo=Pah9xtzkl2Mr) for a detailed implementation.
+You can also refer to the [Jupyter Notebook]() for a detailed implementation.
 
