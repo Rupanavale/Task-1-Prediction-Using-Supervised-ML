@@ -59,5 +59,5 @@ The final step provides a summary of the exploratory data analysis, problem stat
 
 Feel free to explore the provided Jupyter Notebook for a detailed understanding of the project and its implementation.
 
-You can also refer to the [Jupyter Notebook]() for a detailed implementation.
+You can also refer to the [Jupyter Notebook](https://github.com/Rupanavale/Task-1-Prediction-Using-Supervised-ML/blob/main/Prediction_Using_Supervised_ML_.ipynb) for a detailed implementation.
 
